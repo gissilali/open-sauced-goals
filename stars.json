@@ -1,19 +1,19 @@
 [
   {
     "full_name": "codenotary/immudb",
-    "stargazers_count": 7646,
-    "open_issues_count": 96,
+    "stargazers_count": 7656,
+    "open_issues_count": 90,
     "forks_count": 268
   },
   {
     "full_name": "fabricjs/fabric.js",
-    "stargazers_count": 22070,
-    "open_issues_count": 251,
-    "forks_count": 3063
+    "stargazers_count": 22090,
+    "open_issues_count": 252,
+    "forks_count": 3062
   },
   {
     "full_name": "weeeBox/mobile-system-design",
-    "stargazers_count": 1715,
+    "stargazers_count": 1719,
     "open_issues_count": 13,
     "forks_count": 175
   },
@@ -31,51 +31,51 @@
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 222571,
-    "open_issues_count": 49,
-    "forks_count": 60302
+    "stargazers_count": 222907,
+    "open_issues_count": 50,
+    "forks_count": 60379
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 69770,
-    "open_issues_count": 18,
-    "forks_count": 10440
+    "stargazers_count": 70459,
+    "open_issues_count": 20,
+    "forks_count": 10509
   },
   {
     "full_name": "pestphp/pest",
-    "stargazers_count": 4894,
+    "stargazers_count": 4922,
     "open_issues_count": 9,
     "forks_count": 172
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 16723,
-    "open_issues_count": 127,
-    "forks_count": 700
+    "stargazers_count": 16748,
+    "open_issues_count": 129,
+    "forks_count": 702
   },
   {
     "full_name": "blade-ui-kit/blade-ui-kit",
-    "stargazers_count": 1123,
+    "stargazers_count": 1124,
     "open_issues_count": 54,
     "forks_count": 73
   },
   {
     "full_name": "codex-team/editor.js",
-    "stargazers_count": 19389,
+    "stargazers_count": 19413,
     "open_issues_count": 409,
-    "forks_count": 1515
+    "forks_count": 1519
   },
   {
     "full_name": "fullcalendar/fullcalendar-vue",
     "stargazers_count": 1037,
     "open_issues_count": 16,
-    "forks_count": 68
+    "forks_count": 67
   },
   {
     "full_name": "livewire/livewire",
-    "stargazers_count": 15947,
-    "open_issues_count": 20,
-    "forks_count": 911
+    "stargazers_count": 15986,
+    "open_issues_count": 19,
+    "forks_count": 912
   },
   {
     "full_name": "manuelgeek/mpesab2c",
@@ -99,7 +99,7 @@
     "full_name": "antoniolg/androidmvp",
     "stargazers_count": 5961,
     "open_issues_count": 5,
-    "forks_count": 1617
+    "forks_count": 1616
   },
   {
     "full_name": "nobuti/Codeigniter-breadcrumbs",
@@ -109,14 +109,14 @@
   },
   {
     "full_name": "jeroennoten/Laravel-AdminLTE",
-    "stargazers_count": 3209,
-    "open_issues_count": 19,
-    "forks_count": 946
+    "stargazers_count": 3213,
+    "open_issues_count": 20,
+    "forks_count": 945
   },
   {
     "full_name": "artesaos/seotools",
-    "stargazers_count": 2581,
+    "stargazers_count": 2584,
     "open_issues_count": 23,
-    "forks_count": 456
+    "forks_count": 455
   }
 ]
